@@ -4,7 +4,7 @@ Make an Editable Table in React (Add/Edit/Delete Rows)
 
 ## Live Project Link
 
-[React Table App](https://magenta-faun-d12522.netlify.app/)
+[React Table App]()
 
 # How to fork and clone
 
